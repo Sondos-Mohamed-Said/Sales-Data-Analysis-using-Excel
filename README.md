@@ -50,7 +50,7 @@ The dataset contains the following information:
 
 ## How to Use  
 1. Download the files from this repository.  
-2. Open `sales_analysis.xlsx` to explore pivot tables and visualizations.  
+2. Open `Sample - Superstore .xlsx` to explore pivot tables and visualizations.  
 3. Refer to the dashboards folder for ready-to-use visuals.  
 
 ---
