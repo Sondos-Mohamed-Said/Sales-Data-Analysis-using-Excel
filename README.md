@@ -46,7 +46,7 @@ The dataset contains the following information:
 ## Files Included  
 1. `Sample - Superstore .csv` - The cleaned dataset for analysis.  
 2. `Sample - Superstore .xlsx` - Includes pivot tables and charts for detailed analysis.  
-3. `dashboard_visuals/` - A folder containing images of the dashboards.  
+3. `dashboard_visual.jpg` - image of the dashboards.  
 
 ## How to Use  
 1. Download the files from this repository.  
