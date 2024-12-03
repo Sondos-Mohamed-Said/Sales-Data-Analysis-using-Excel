@@ -44,8 +44,8 @@ The dataset contains the following information:
 - **Sales Trends:** A significant increase in sales was observed during the holiday season.  
 
 ## Files Included  
-1. `sales_data.csv` - The cleaned dataset for analysis.  
-2. `sales_analysis.xlsx` - Includes pivot tables and charts for detailed analysis.  
+1. `Sample - Superstore .csv` - The cleaned dataset for analysis.  
+2. `Sample - Superstore .xlsx` - Includes pivot tables and charts for detailed analysis.  
 3. `dashboard_visuals/` - A folder containing images of the dashboards.  
 
 ## How to Use  
