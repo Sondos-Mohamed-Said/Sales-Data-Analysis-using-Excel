@@ -58,5 +58,5 @@ The dataset contains the following information:
 This project highlights the power of Excel in performing comprehensive data analysis and visualization. If you have any questions or suggestions, feel free to reach out! 😊
 
 
-![Dashboard Visualization](dashboard_visual.png)
+![Dashboard Visualization](dashboard_visual.jpg)
 
